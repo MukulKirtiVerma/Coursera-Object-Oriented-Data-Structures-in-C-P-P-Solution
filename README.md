@@ -4,7 +4,7 @@
 
 For week4 project submission do all these steps:-
 
-1. Extract this zip to your local drive...
+1. Download &Extract "OOP_C++_Week4_Project_Code.zip" file to your local drive...
 
 2. Open your terminal
 
